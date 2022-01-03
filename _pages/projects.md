@@ -8,8 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-Projects
-======
-* Project 1
+* [Project 1](/Helsinki-Weather-Data)
 * Project 2
 * Project 3
