@@ -89,6 +89,7 @@
   /* github  */
 
   &--gh {
+    border: 1px solid $light-gray !important; 
     background-color: $github-color;
     
     &:hover {
