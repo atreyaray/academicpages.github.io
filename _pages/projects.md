@@ -1,5 +1,5 @@
 ---
-# layout: archive
+layout: archive
 title: "Projects"
 permalink: /projects/
 toc: true
@@ -9,7 +9,7 @@ This page is under construction... (change markt)
 
 {% include toc %}
 
-# Finnish Housing Market Prediction using Time Series Analysis
+# Finnish Housing Market Prediction
 
 This project was a part of the course CS-C3250 Data Science Project 2021 under the supervision of  Prof. Jorma Laaksonen and Juha Vesanto, OP Financial Group's principal data scientist. The project's main objective was to gather related data from public sources and make a forecasting model of the development of house prices for the next four quarters.
 
@@ -22,7 +22,7 @@ We used data from the [Statistics Finland (Tilastokeskus)](https://tilastokeskus
 [Report](../files/finnish_hm_prediction.pdf){: .btn--success}
 
 
-# Predicting Helsinki's Humidity levels using Weather Station Data
+# Predicting Helsinki's Humidity levels
 
 <a class="github-button" href="https://github.com/atreyaray/WeatherProject" data-size="large" aria-label="Github Repo">Github Repo</a>
 <a class="github-button" href="https://atreyaray.github.io/Helsinki-Weather-Data" data-icon="octicon-repo-template" data-size="large" aria-label="Github Repo">Report</a>
