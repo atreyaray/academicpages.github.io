@@ -90,10 +90,10 @@
 
   &--gh {
     border: 1px solid $light-gray !important; 
-    background-color: $github-color;
+    background-color: $githubbtn-color;
     
     &:hover {
-      background-color: mix(#000, $github-color, 20%);
+      background-color: mix(#000, $githubbtn-color, 20%);
     }
   }
 
