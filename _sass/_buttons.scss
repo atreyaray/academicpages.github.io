@@ -92,11 +92,11 @@
     border: 1px solid $light-gray !important; 
     border-radius: 4px;
     color: #000 !important;
-    width: 100px;
-    height: 40px;
-    font-size: $type-size-7;
+    width: 113.8px;
+    height: 28px;
+    font-size: $type-size-6;
     background-color: $githubbtn-color;
-    margin-top: 5px;
+    padding-top: 5px;
     
     &:hover {
       background-color: mix(#000, $githubbtn-color, 20%);
