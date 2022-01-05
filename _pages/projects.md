@@ -17,13 +17,9 @@ We used data from the [Statistics Finland (Tilastokeskus)](https://tilastokeskus
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/atreyaray/OP-Forecasting-Future-House-Prices" data-size="large" aria-label="Github Repo">Github Repo</a> 
-<a class="github-button" 
-    href="https://atreyaray.github.io/files/finnish_hm_prediction.pdf" 
-    data-icon="octicon-repo-template" 
-    data-size="large" 
-    aria-label="Github Repo">Report</a> 
+<a class="github-button" href="https://github.com/atreyaray/atreyaray.github.io/blob/master/files/finnish_hm_prediction.pdf" data-icon="octicon-repo-template" data-size="large" aria-label="Github Repo">Report</a> 
 
-<!-- [Report](../files/finnish_hm_prediction.pdf){: .btn} -->
+[Report](../files/finnish_hm_prediction.pdf){: .btn--project}
 
 
 # Predicting Helsinki's Humidity levels using Weather Station Data

@@ -88,8 +88,12 @@
 
   /* github  */
 
-  &--project {
-    border: 1px solid #fff !important; /* override*/
+  &--gh {
+    background-color: $github-color;
+    
+    &:hover {
+      background-color: mix(#000, $github-color, 20%);
+    }
   }
 
   /* success */
