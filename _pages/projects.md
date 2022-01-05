@@ -5,7 +5,7 @@ permalink: /projects/
 toc: true
 ---
 
-This page is under construction... (change)
+This page is under construction... (change mark)
 
 
 # Finnish Housing Market Prediction using Time Series Analysis
