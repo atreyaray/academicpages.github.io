@@ -89,12 +89,13 @@
   /* github  */
 
   &--gh {
-    border: 1px solid $light-gray !important; 
-    border-radius: 4px;
+    vertical-align: top;
     color: #000 !important;
     width: 113.8px !important;
-    height: 50px !important;
+    height: 80px !important;
     font-size: 1em;
+    border: 1px solid $light-gray !important; 
+    border-radius: 4px;
     background-color: $githubbtn-color;
     margin-bottom: 20px;
     text-align: center;

@@ -17,20 +17,26 @@ We used data from the [Statistics Finland (Tilastokeskus)](https://tilastokeskus
 
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/atreyaray/OP-Forecasting-Future-House-Prices" data-size="large" aria-label="Github Repo">Github Repo</a> 
-<a class="github-button" href="https://github.com/atreyaray/atreyaray.github.io/blob/master/files/finnish_hm_prediction.pdf" data-icon="octicon-repo-template" data-size="large" aria-label="Github Repo">Report</a>  [Report](../files/finnish_hm_prediction.pdf){: .btn--gh}
-[Report](../files/finnish_hm_prediction.pdf){: .btn--success}
+<!-- <a class="github-button" href="https://github.com/atreyaray/OP-Forecasting-Future-House-Prices" data-size="large" aria-label="Github Repo" style="vertical-align:bottom;">Github Repo</a> <a class="github-button" href="https://github.com/atreyaray/atreyaray.github.io/blob/master/files/finnish_hm_prediction.pdf" data-icon="octicon-repo-template" data-size="large" aria-label="Github Repo" style="vertical-align:bottom;">Report</a>  -->
+
+
+{% include buttons_dsp.html %}
+<!-- [Report](../files/finnish_hm_prediction.pdf){: .btn--gh}  -->
+<!-- [Report](../files/finnish_hm_prediction.pdf){: .btn--success} -->
+
 
 
 # Predicting Helsinki's Humidity levels
 
-<a class="github-button" href="https://github.com/atreyaray/WeatherProject" data-size="large" aria-label="Github Repo">Github Repo</a>
-<a class="github-button" href="https://atreyaray.github.io/Helsinki-Weather-Data" data-icon="octicon-repo-template" data-size="large" aria-label="Github Repo">Report</a>
+<!-- <a class="github-button" href="https://github.com/atreyaray/WeatherProject" data-size="large" aria-label="Github Repo">Github Repo</a>
+<a class="github-button" href="https://atreyaray.github.io/Helsinki-Weather-Data" data-icon="octicon-repo-template" data-size="large" aria-label="Github Repo">Report</a> -->
 
 <!-- [Report](/Helsinki-Weather-Data){: .btn} -->
+{% include buttons_ds.html %}
 
 # Bayesian IQ Growth Analysis
-[Report](../files/bda.pdf){: .btn--success}
+<!-- [Report](../files/bda.pdf){: .btn--gh} -->
+{% include buttons_bda.html %}
 
 # Cassino Game
 
