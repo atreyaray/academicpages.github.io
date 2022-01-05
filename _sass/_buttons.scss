@@ -45,6 +45,7 @@
     }
   }
 
+
   /* for dark backgrounds */
 
   &--inverse {
@@ -83,6 +84,12 @@
     &:hover {
       background-color: mix(#000, $warning-color, 20%);
     }
+  }
+
+  /* github  */
+
+  &--project {
+    border: 1px solid #fff !important; /* override*/
   }
 
   /* success */
