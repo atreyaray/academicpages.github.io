@@ -97,6 +97,7 @@
     font-size: $type-size-8;
     background-color: $githubbtn-color;
     margin-bottom: 20px;
+    margin-left: 30px;
     
     &:hover {
       background-color: mix(#000, $githubbtn-color, 20%);
