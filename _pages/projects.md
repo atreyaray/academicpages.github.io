@@ -1,5 +1,5 @@
 ---
-layout: archive
+# layout: archive
 title: "Projects"
 permalink: /projects/
 toc: true
@@ -7,6 +7,7 @@ toc: true
 
 This page is under construction... (change markf)
 
+{% include toc %}
 
 # Finnish Housing Market Prediction using Time Series Analysis
 
