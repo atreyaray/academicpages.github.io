@@ -6,7 +6,7 @@ toc: true
 ---
 {% include toc %}
 
-This page is under construction... I will keep updating the projects page, in the meanwhile, do check out the github links.
+This page is under construction... I will keep updating the projects page, in the meantime, do check out the github links.
 
 
 # Finnish Housing Market Prediction
