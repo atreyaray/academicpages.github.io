@@ -11,8 +11,8 @@ This page is under construction... I will keep updating the projects page, in th
 
 # Finnish Housing Market Prediction
 
-***Key Concepts*** - *Exploratory Data Analysis, Data Visualisation, Clustering, Time Series Analysis, Facebook Prophet, SARIMAX*   
-**Tools and Frameworks**- Python, Numpy, Pandas, Sklearn, FB Prophet, Heroku, Git, Latex
+**Key Concepts** - *Exploratory Data Analysis, Data Visualisation, Clustering, Time Series Analysis, Facebook Prophet, SARIMAX*   
+**Tools and Frameworks**- *Python, Numpy, Pandas, Sklearn, FB Prophet, Heroku, Git, Latex*
 
 This project was a part of the course CS-C3250 Data Science Project 2021 under the supervision of  Prof. Jorma Laaksonen and Juha Vesanto, OP Financial Group's principal data scientist. The project's main objective was to gather related data from public sources and make a forecasting model of the development of house prices for the next four quarters.
 
