@@ -16,13 +16,12 @@ This page is under construction... I will keep updating the projects page, in th
 
 This project was a part of the course CS-C3250 Data Science Project 2021 under the supervision of  Prof. Jorma Laaksonen and Juha Vesanto, OP Financial Group's principal data scientist. The project's main objective was to gather related data from public sources and make a forecasting model of the development of house prices for the next four quarters.
 
-We used data from the [Statistics Finland (Tilastokeskus)](https://tilastokeskus.fi/index_en.html) website. The dataset contained the prices of different house types for various postal codes throughout Finland. We preprocessed the data and performed exploratory data analysis to discover trends and patterns in housing prices during the past 46 quarters.
+We used data from the [Statistics Finland (Tilastokeskus)](https://tilastokeskus.fi/index_en.html) website. The dataset contained the prices of different house types for various postal codes throughout Finland. We performed exploratory data analysis by visualising missing data and conducting time series analysis on the data to discover trends and patterns in housing prices during the past 46 quarters. Next we preprocessed the data by adding features such as latitude and longitude, followed by trying out different imputation methods for missing data.
 
-<!-- ![project was here](../images/projects/prices_states.jpg) -->
 <img src="../images/projects/missing_geo.jpg" alt="graph" width="300"/>
 <img src="../images/projects/prices_states.png" alt="graph" width="550"/>
 
-
+For the prediction task we used a couple of different time series methods. We used Prophet, an additive model utilising components such as trends, seasonality, holiday effect, and noise. Additionally we also used Seasonal Autoregressive Integrated Moving Average eXogenous (SARIMAX) model using the `statsmodel` library.
 
 **Collaborators**: [Ken Riipa](https://www.linkedin.com/in/kenriippa/), [Bruce Nguyen](https://www.linkedin.com/in/quan-possible/), [Taeyoung Kee](https://www.linkedin.com/in/taeyoung-kee-960550113/), [Duong Tran](https://www.linkedin.com/in/duong-tran-552522176/), Son Nguyen
 
