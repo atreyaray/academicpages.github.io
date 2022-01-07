@@ -3,9 +3,9 @@ permalink: /courses
 title: "Courses and Certificates"
 author_profile: true
 ---
-Here I have listed some courses that I have taken either in University or online.
+Here I have listed some relevant courses that I have taken either in University or online.
 
-## University Courses
+## University Courses (Aalto)
 
 ### Ongoing
 
@@ -32,4 +32,10 @@ Here I have listed some courses that I have taken either in University or online
 
 ## Online Courses
 
-* Web Development
+### Ongoing 
+
+* [Introduction to TensorFlow](https://www.coursera.org/learn/intro-tensorflow/home/welcome)
+
+### Completed
+
+* [Web Development](https://fullstackopen.com/en/) (6 ECTS)
