@@ -21,7 +21,12 @@ We used data from the [Statistics Finland (Tilastokeskus)](https://tilastokeskus
 <img src="../images/projects/missing_geo.jpg" alt="graph" width="300"/>
 <img src="../images/projects/prices_states.png" alt="graph" width="550"/>
 
-For the prediction task we used a couple of different time series methods. We used Prophet, an additive model utilising components such as trends, seasonality, holiday effect, and noise. Additionally we also used Seasonal Autoregressive Integrated Moving Average eXogenous (SARIMAX) model using the `statsmodel` library.
+For the prediction task we applied a couple of different time series methods. We used Prophet, an additive model utilising components such as trends, seasonality, holiday effect, and noise. Additionally we also made use of the Seasonal Autoregressive Integrated Moving Average eXogenous (SARIMAX) model using the `statsmodel` library. The final model which was deployed was an ensemble model pooling the results of both the SARIMAX and Prophet models. Based on the amount of missing data, we either used a model trained on individual postal code data, a grouped model from data of postal code clusters, or data from a postal code which was closest geographically.
+
+<div>
+<!-- <img class="center" src ="https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a"> -->
+<img style="display:block; margin: 0 auto;" src="../images/projects/results.png" alt="results" width="700"/>
+</div>
 
 **Collaborators**: [Ken Riipa](https://www.linkedin.com/in/kenriippa/), [Bruce Nguyen](https://www.linkedin.com/in/quan-possible/), [Taeyoung Kee](https://www.linkedin.com/in/taeyoung-kee-960550113/), [Duong Tran](https://www.linkedin.com/in/duong-tran-552522176/), Son Nguyen
 
