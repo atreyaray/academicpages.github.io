@@ -9,7 +9,7 @@ toc: true
 This page is under construction... I will keep updating the projects page, in the meantime, do check out the github links.
 
 
-# Finnish Housing Market Prediction
+## Finnish Housing Market Prediction
 
 **Key Concepts** - *Exploratory Data Analysis, Data Visualisation, Clustering, Time Series Analysis, Facebook Prophet, SARIMAX*   
 **Tools and Frameworks**- *Python, Numpy, Pandas, Sklearn, FB Prophet, Heroku, Git, Latex*
@@ -34,7 +34,7 @@ For the prediction task we applied a couple of different time series methods. We
 
 <br/>
 
-# Predicting Helsinki's Humidity levels
+## Predicting Helsinki's Humidity levels
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
 
@@ -43,7 +43,7 @@ Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor
 {% include buttons_ds.html %}
 <br/>
 
-# IQ Growth Trends: Bayesian Analysis
+## IQ Growth Trends: Bayesian Analysis
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
 
@@ -52,7 +52,7 @@ Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor
 {% include buttons_bda.html %}
 <br/>
 
-# Cassino Game
+## Cassino Game
 
 Cassino, a fishing card game, played by drawing cards and matching them with those on the deck with similar value or symbols. Made with Scala, using graphics from ScalaFX and tested with ScalaTest.
 
