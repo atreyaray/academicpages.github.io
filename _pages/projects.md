@@ -46,6 +46,8 @@ In this report we attempted to validate the [Flynn effect](https://en.wikipedia.
 
 The trends in IQ were validated with a model that explored temporal dependency alone and a further model that factored in schooling level. We modeled the data with a pooled, separate and hierarchical model. These models explored the relationship between the passage of time and the development of IQ scores from the start of testing and the relationship between schooling level and the development of IQ scores from the start of testing.
 
+<img src="../images/projects/linreg.png" alt="graph" width="450"/>
+<img src="../images/projects/ppc.png" alt="graph" width="450"/>
 
 **Collaborators**: [Aayush Kuckeria](https://www.linkedin.com/in/aayushkucheria/), and one other student from the course.
 
