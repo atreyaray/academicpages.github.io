@@ -37,9 +37,18 @@ For the prediction task we applied a couple of different time series methods. We
 
 ## IQ Growth Trends: Bayesian Analysis
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+**Key Concepts** - *Bayesian Analysis, Linear Regression, Monte Carlo Markov Chains, Convergence Diagnostics ( $\hat{R}$, $n_{\text{eff}}$ ), Performance Assessment (PSIS-LOO, $p_{\text{eff}}$ ), Prior Sensitivity Analysis, Data Preprocessing*   
+**Tools and Frameworks**- *R, RMarkdown, Stan, Git*
 
-Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. 
+This project was completed as a part of the course CS-E5710 Bayesian Data Analysis 2022. The main objectives of the report were to understand and apply the various steps in a Bayesian workflow. The project utilised the [Stan](https://mc-stan.org/) statistical programming language to perform Bayesian analysis on the IQ growth data. We used the [RMarkdown](https://rstudio.github.io/rmarkdown/) package to generate the report.
+
+In this report we attempted to validate the [Flynn effect](https://en.wikipedia.org/wiki/Flynn_effect) with the help of [Full Scale IQ Change](https://github.com/owid/owid-datasets/tree/master/datasets/IQ%20Data%20-%20Pietschnig%20and%20Voracek%20(2015)) and [Schooling Index](https://frdelpino.es/investigacion/wp-content/uploads/2020/02/AHDI_1.1-1.xlsx) data. We explored the dependency between IQ change, time and change in average years of schooling in the population through Linear Regression. We investigated these dependencies both globally and per continent.
+
+The trends in IQ were validated with a model that explored temporal dependency alone and a further model that factored in schooling level. We modeled the data with a pooled, separate and hierarchical model. These models explored the relationship between the passage of time and the development of IQ scores from the start of testing and the relationship between schooling level and the development of IQ scores from the start of testing.
+
+
+**Collaborators**: [Aayush Kuckeria](https://www.linkedin.com/in/aayushkucheria/), and one other student from the course.
+
 
 {% include buttons_bda.html %}
 <br/>
