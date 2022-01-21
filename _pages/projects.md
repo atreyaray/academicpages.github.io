@@ -71,12 +71,14 @@ The most elementary prediction method, multiple regression yielded the best resu
 
 ## Cassino Game
 
-Cassino, a fishing card game, played by drawing cards and matching them with those on the deck with similar value or symbols. Made with Scala, using graphics from ScalaFX and tested with ScalaTest.
+Cassino, a fishing card game, played by drawing cards and matching them with those on the deck with similar value or symbols. Made with Scala, using graphics from Scala Swing and tested with ScalaTest. The project used Scala Swing elements to create GUI elements 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+<img src="../images/cassino/FrontPage_3.png"  width="300"/> 
+<img src="../images/cassino/GamePlay_1.png"  width="300"/> 
+<img src="../images/cassino/SavingFiles.png"  width="300"/> 
 
-Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. 
 
+ 
 <a class="github-button" href="https://github.com/atreyaray/CassinoGame" data-size="large" aria-label="Github Repo">Github Repo</a>
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
