@@ -10,15 +10,12 @@ redirect_from:
 
 > I like leveraging data and technology to solve problems. 
 
+Aspiring data scientist interested in probabilistic machine learning (PML), natural language processing (NLP), the internet of things (IoT), and causal inference (CI).
 
-I am an aspiring data scientist who is passionate about the wonders of data mining, machine learning, and artificial intelligence and their endless applications in real world problems. I always try to not only analyze data but also come up with unique solutions making use of technology.
+I like using technology, and the unbounded power of data to solve problems. 
 
-I have coded in Scala, Python and C++ to implement algorithms and develop software projects. I am currently working at Aalto University, creating tutorials and software projects about using graphics and animations in Scala.
+I am a (soon to be Master’s) Data Science student minoring in Economics. In the past, I have worked as a Data Analytics Trainee at Deloitte (2020), Teaching Assistant (2021) in CS courses, and a Learning Resources Developer (2021). This summer I will be working as an IoT research trainee at Ericsson. 
 
-I have taken several foundational courses like Data Science, Machine Learning, Databases and Artificial Intelligence to base my exploration of the Data Sciences. In the summer of 2019, I worked on different methods of data preprocessing, data pipeline creation and analysis to predict client dormancy at Deloitte. At the moment, I am researching the uses of causal inference in reinforcement learning methods for my Bachelor's Thesis.
+My university studies have exposed me to different subfields in Machine Learning (supervised, unsupervised, reinforcement learning (RL), and Bayesian/probabilistic). My Bachelor’s thesis was titled Applications of Causality in RL. My current interests involve learning MLOps and how to productionise ML models at scale using the cloud.
 
-
-I have assisted students through their journey of learning programming as a Teaching Assistant. This has included support through chat, providing feedback on software projects and one-on-one zoom sessions with hundreds of students.
-
-I learnt full-stack web development using React, Node and Express and am now developing exciting web development projects. I thoroughly enjoy participating in hackathons and coding competitions to practice my problem-solving skills.
-
+I am also interested in CS more generally, having taken and taught programming courses, Operating Systems, and Databases at university. I have coded in Scala, Python and C++ to implement algorithms and develop software projects. I am also acquainted with full-stack web development using React, Node and Express and like developing web development projects. I thoroughly enjoy participating in hackathons and coding competitions to practice my problem-solving skills.
