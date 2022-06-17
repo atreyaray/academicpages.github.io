@@ -34,7 +34,10 @@ Here I have listed some relevant courses that I have taken either in University 
 <br/>
 <details>
     <summary><b>Completed</b></summary>
-    <ul><li><a href="https://fullstackopen.com/en/">Web Development</a></li></ul>
+    <ul>
+        <li><a href="https://fullstackopen.com/en/">AWS Cloud Technical Essentials</a></li>
+        <li><a href="https://www.coursera.org/account/accomplishments/certificate/PDB5HET7CBDD">Web Development</a></li>
+    </ul>
 </details>
 <br/>
 
