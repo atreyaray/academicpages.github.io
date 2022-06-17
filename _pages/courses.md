@@ -9,18 +9,21 @@ Here I have listed some relevant courses that I have taken either in University 
 
 <details>
     <summary><b>Ongoing</b></summary>
-    <ul><li>Machine Learning: Advanced Probabilistic Methods</li>
-    <li>Statistical Natural Language Processing </li></ul>
+    <ul>Summer Vacations! Will be updated in the fall :)</ul>
 </details>
 <br/>
 <details>
     <summary><b>Completed</b></summary>
-    <ul><li>Machine Learning: Supervised Methods</li>
-    <li>Methods of Data Mining</li>
-    <li>Artificial Intelligence</li>
-    <li>Databases</li>
-    <li>Bayesian Data Analysis</li>
-    <li>Data Science</li></ul>
+    <ul>
+        <li>Deep Learning</li>
+        <li>Machine Learning: Supervised Methods</li>
+        <li>Machine Learning: Advanced Probabilistic Methods</li>
+        <li>Methods of Data Mining</li>
+        <li>Artificial Intelligence</li>
+        <li>Databases</li>
+        <li>Bayesian Data Analysis</li>
+        <li>Data Science</li>
+    </ul>
 </details>
 
 *** 
