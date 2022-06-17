@@ -29,7 +29,10 @@ Here I have listed some relevant courses that I have taken either in University 
 
 <details>
     <summary><b>Ongoing</b></summary>
-    <ul><li><a href="https://www.coursera.org/learn/intro-tensorflow/home/welcome">Introduction to TensorFlow</a></li></ul>
+    <ul>
+        <li><a href="https://www.coursera.org/learn/automl-datasets-ml-models">Practical Data Science on the AWS Cloud (Specialisation)</a></li>
+        <li><a href="https://www.coursera.org/learn/intro-tensorflow/home/welcome">Introduction to TensorFlow</a></li>
+    </ul>
 </details>
 <br/>
 <details>
