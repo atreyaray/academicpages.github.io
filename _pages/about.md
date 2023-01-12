@@ -14,7 +14,7 @@ Aspiring data scientist interested in probabilistic machine learning (PML), natu
 
 I like using technology, and the unbounded power of data to solve problems. 
 
-I am a (soon to be Master’s) Data Science student minoring in Economics. In the past, I have worked as a Data Analytics Trainee at Deloitte (2020), Teaching Assistant (2021) in CS courses, and a Learning Resources Developer (2021). This summer I will be working as an IoT research trainee at Ericsson. 
+I am a Master’s student studying ML, AI and Data Science with an interest in Financial Engineering. I am currently working as a Data Science Trainee at Nokia (2023). In the past, I have worked as an IoT research trainee at Ericsson (2022), Data Analytics Trainee at Deloitte (2020), Teaching Assistant (2021) in several CS courses, and as a Learning Resources Developer (2021) at Aalto University. 
 
 My university studies have exposed me to different subfields in Machine Learning (supervised, unsupervised, reinforcement learning (RL), and Bayesian/probabilistic). My Bachelor’s thesis was titled Applications of Causality in RL. My current interests involve learning MLOps and how to productionise ML models at scale using the cloud.
 
