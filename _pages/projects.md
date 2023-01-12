@@ -3,6 +3,7 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 toc: true
+toc_sticky: false
 ---
 {% include toc %}
 
